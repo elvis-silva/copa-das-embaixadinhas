@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CopaDasEmbaixadinhas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">802009066477630</string>
+    <string name="btn_back_text">Outra vez</string>    
+
+    <string name="com_facebook_loginview_log_out_button">Desconectar</string>
+    <string name="com_facebook_loginview_log_in_button">Conectar</string>
+    <string name="com_facebook_loginview_log_in_button_long">Conectar ao facebook</string>
+    <string name="com_facebook_share_button_text">Compartilhar</string>
+    <string name="com_facebook_loginview_cancel_action">Cancelar</string>
+    <string name="com_facebook_loginview_log_out_action">Desconectar</string>
+    <string name="com_facebook_loginview_logged_in_as">Logado como: %1$s</string>
+    <string name="com_facebook_loading">Carregando…</string>
+</resources>
